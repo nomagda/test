@@ -1,0 +1,11 @@
+a:link {background-color: antiquewhite;}
+a:link {color: brown;}
+a:hover {color: hotpink;}
+a:active {color: blueviolet;}
+a:link {text-decoration: none;}
+a:hover {text-decoration: underline;}
+ul {
+    list-style-type: none;
+}
+li {display: inline;}
+a {display: block;}
