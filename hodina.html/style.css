@@ -1,3 +1,4 @@
+/* 
 a:link {background-color: antiquewhite;}
 a:link {color: brown;}
 a:hover {color: hotpink;}
@@ -9,3 +10,13 @@ ul {
 }
 li {display: inline;}
 a {display: block;}
+*/
+* {margin: 0;}
+li {font-size: 23px;}
+ul {list-style: none; overflow: hidden;}
+li {float: left; padding: 10px; background-color: black; display: block;}
+.menu {background-color: black;}
+a {color: white;}
+li:hover {background-color: brown;}
+.dropdown-content {display: none;}
+a:link {text-decoration: none;}
